@@ -8,5 +8,8 @@ public class hallo {
 	public int add(int a, int b) {
 		return a+b;
 	}
+	
+	public static void main (Args string[]){
+		System.out.println("Hallo Welt");
 
 }
