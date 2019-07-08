@@ -9,7 +9,8 @@ public class hallo {
 		return a+b;
 	}
 	
-	public static void main (Args string[]){
+	public static void main (String[] args){
 		System.out.println("Hallo Welt");
+	}s
 
 }
